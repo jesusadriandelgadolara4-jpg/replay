@@ -1,6 +1,6 @@
-# @puppeteer/replay
+f# @puppeteer/replay
 
-<!-- [START badges] -->
+<!-- [START badges]
 
 [![Build status](https://github.com/puppeteer/replay/workflows/run-checks/badge.svg)](https://github.com/puppeteer/replay/actions?query=workflow%3Arun-checks) [![npm puppeteer package](https://img.shields.io/npm/v/@puppeteer/replay.svg)](https://npmjs.org/package/@puppeteer/replay)
 
@@ -16,10 +16,7 @@
 npm install @puppeteer/replay --save
 ```
 
-If you want to replay recordings using Puppeteer, install Puppeteer as well:
-
-```
-npm install puppeteer --save
+If you want to replay recordings using Puppeteer, install Puppeteer as
 ```
 
 ## Getting started with Puppeteer Replay
